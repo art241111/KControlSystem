@@ -1,0 +1,4 @@
+rootProject.name = "KControlSystem"
+include ':app'
+include ':kControlLibrary'
+include ':tcpClient'
